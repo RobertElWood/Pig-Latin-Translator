@@ -1,0 +1,15 @@
+C:\Users\rober\Documents\C# Class\Pig Latin\Pig Latin\bin\Debug\net6.0\Pig Latin.exe
+C:\Users\rober\Documents\C# Class\Pig Latin\Pig Latin\bin\Debug\net6.0\Pig Latin.deps.json
+C:\Users\rober\Documents\C# Class\Pig Latin\Pig Latin\bin\Debug\net6.0\Pig Latin.runtimeconfig.json
+C:\Users\rober\Documents\C# Class\Pig Latin\Pig Latin\bin\Debug\net6.0\Pig Latin.dll
+C:\Users\rober\Documents\C# Class\Pig Latin\Pig Latin\bin\Debug\net6.0\Pig Latin.pdb
+C:\Users\rober\Documents\C# Class\Pig Latin\Pig Latin\obj\Debug\net6.0\Pig Latin.csproj.AssemblyReference.cache
+C:\Users\rober\Documents\C# Class\Pig Latin\Pig Latin\obj\Debug\net6.0\Pig Latin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Documents\C# Class\Pig Latin\Pig Latin\obj\Debug\net6.0\Pig Latin.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\C# Class\Pig Latin\Pig Latin\obj\Debug\net6.0\Pig Latin.AssemblyInfo.cs
+C:\Users\rober\Documents\C# Class\Pig Latin\Pig Latin\obj\Debug\net6.0\Pig Latin.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\C# Class\Pig Latin\Pig Latin\obj\Debug\net6.0\Pig Latin.dll
+C:\Users\rober\Documents\C# Class\Pig Latin\Pig Latin\obj\Debug\net6.0\refint\Pig Latin.dll
+C:\Users\rober\Documents\C# Class\Pig Latin\Pig Latin\obj\Debug\net6.0\Pig Latin.pdb
+C:\Users\rober\Documents\C# Class\Pig Latin\Pig Latin\obj\Debug\net6.0\Pig Latin.genruntimeconfig.cache
+C:\Users\rober\Documents\C# Class\Pig Latin\Pig Latin\obj\Debug\net6.0\ref\Pig Latin.dll
